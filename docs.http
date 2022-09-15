@@ -1,0 +1,9 @@
+@BASE_URL=http://127.0.0.1:8001
+
+{{BASE_URL}}/
+Content-Type: application/json
+
+###
+
+{{BASE_URL}}/custom
+Content-Type: application/json
